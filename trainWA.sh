@@ -2,7 +2,7 @@
 
 
 python main.py \
-    --arch resnet50 --pretrained  \
+    --arch alexnet --pretrained  \
     --classes 31 \
     --bottleneck 256 \
     --gpu 0 \

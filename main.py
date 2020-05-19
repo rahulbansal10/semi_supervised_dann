@@ -17,7 +17,6 @@ from PIL import Image, ImageOps
 import numpy as np
 
 import TCL as TCL
-from model import CNN
 from utils import *
 import caffe_transform as caffe_t
 from data import ImageList
@@ -88,7 +87,6 @@ def main():
         targetdir = './office_list/'+'labeled_'+args.valdata+'.txt'
         valdir = './office_list/'+'unlabeled_'+args.valdata+'.txt'
 
-    pdb.set_trace()
     data_transforms = {
       'train': caffe_t.transform_train(resize_size=256, crop_size=224),
       'val': caffe_t.transform_train(resize_size=256, crop_size=224),
@@ -103,8 +101,6 @@ def main():
     
     val_dataset = ImageList(open(valdir).readlines(), domain = "val", transform = data_transforms["val9"])
     val_loader = torch.utils.data.DataLoader(val_dataset,batch_size=args.batch_size, shuffle=False,num_workers=args.workers)
-
-    pdb.set_trace()
 
     net = TCL.TCL_Net(args).cuda()
     TCL.train_val(source_loader, target_loader, val_loader,net, args)

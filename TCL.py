@@ -239,8 +239,8 @@ def train_val(source_loader, target_loader, val_loader, net, args):
         source_y_softmax, target_y_softmax = y_softmax_var.chunk(2,0)
         source_d, target_d = d_var.chunk(2,0)
       
-        Ly = label_criterion(source_y, label_var) ## By Rahul
-        Ld = domain_criterion(d_var, domain_label) ## By Rahul
+        Ly = label_criterion(source_y, label_var) 
+        Ld = domain_criterion(d_var, domain_label)
         Lt = cal_Lt(target_y_softmax)
         
         loss = Ly + args.traded * Ld + args.tradet * Lt

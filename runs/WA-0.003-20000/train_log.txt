@@ -1,51 +1,27 @@
-Iter: [0/20001]  Time: 0.881  Ly: 3.426  Ld: 0.686  Lt: 3.434  sourceN: 0.00  Prec1: 6.25
-Iter: [250/20001]  Time: 0.147  Ly: 2.521  Ld: 0.658  Lt: 3.147  sourceN: 0.00  Prec1: 40.77
-* Validation Prec1 52.836
-Iter: [500/20001]  Time: 0.179  Ly: 0.718  Ld: 0.564  Lt: 1.747  sourceN: 0.00  Prec1: 85.40
-* Validation Prec1 64.429
-Iter: [750/20001]  Time: 0.183  Ly: 0.405  Ld: 0.342  Lt: 1.204  sourceN: 0.00  Prec1: 91.00
-* Validation Prec1 68.306
-Iter: [1000/20001]  Time: 1.361  Ly: 0.325  Ld: 0.500  Lt: 0.985  sourceN: 0.00  Prec1: 92.30
-* Validation Prec1 68.557
-Iter: [1250/20001]  Time: 0.178  Ly: 0.271  Ld: 0.514  Lt: 0.890  sourceN: 0.00  Prec1: 93.40
-* Validation Prec1 71.106
-Iter: [1500/20001]  Time: 0.183  Ly: 0.256  Ld: 0.519  Lt: 0.808  sourceN: 0.00  Prec1: 93.58
-* Validation Prec1 70.172
-Iter: [1750/20001]  Time: 0.185  Ly: 0.233  Ld: 0.505  Lt: 0.766  sourceN: 0.00  Prec1: 94.14
-* Validation Prec1 70.388
-Iter: [2000/20001]  Time: 0.184  Ly: 0.215  Ld: 0.552  Lt: 0.744  sourceN: 0.00  Prec1: 94.41
-* Validation Prec1 70.603
-Iter: [2250/20001]  Time: 0.184  Ly: 0.209  Ld: 0.497  Lt: 0.718  sourceN: 0.00  Prec1: 94.76
-* Validation Prec1 70.926
-Iter: [2500/20001]  Time: 0.185  Ly: 0.183  Ld: 0.557  Lt: 0.695  sourceN: 0.00  Prec1: 95.38
-* Validation Prec1 71.249
-Iter: [2750/20001]  Time: 0.186  Ly: 0.190  Ld: 0.564  Lt: 0.678  sourceN: 0.00  Prec1: 94.86
-* Validation Prec1 71.034
-Iter: [3000/20001]  Time: 0.186  Ly: 0.186  Ld: 0.560  Lt: 0.660  sourceN: 0.00  Prec1: 95.15
-* Validation Prec1 70.782
-Iter: [3250/20001]  Time: 0.185  Ly: 0.169  Ld: 0.408  Lt: 0.655  sourceN: 0.00  Prec1: 95.36
-* Validation Prec1 71.141
-Iter: [3500/20001]  Time: 0.187  Ly: 0.171  Ld: 0.540  Lt: 0.639  sourceN: 0.00  Prec1: 95.36
-* Validation Prec1 71.034
-Iter: [3750/20001]  Time: 0.223  Ly: 0.162  Ld: 0.565  Lt: 0.627  sourceN: 0.00  Prec1: 95.49
-* Validation Prec1 71.536
-Iter: [4000/20001]  Time: 0.276  Ly: 0.158  Ld: 0.584  Lt: 0.622  sourceN: 0.00  Prec1: 95.75
-* Validation Prec1 71.321
-Iter: [4250/20001]  Time: 0.237  Ly: 0.157  Ld: 0.594  Lt: 0.605  sourceN: 0.00  Prec1: 95.74
-* Validation Prec1 71.859
-Iter: [4500/20001]  Time: 0.189  Ly: 0.148  Ld: 0.588  Lt: 0.592  sourceN: 0.00  Prec1: 95.85
-* Validation Prec1 72.326
-Iter: [4750/20001]  Time: 0.185  Ly: 0.166  Ld: 0.608  Lt: 0.591  sourceN: 0.00  Prec1: 95.31
-* Validation Prec1 71.931
-Iter: [5000/20001]  Time: 0.184  Ly: 0.151  Ld: 0.613  Lt: 0.577  sourceN: 0.00  Prec1: 96.00
-* Validation Prec1 71.716
-Iter: [5250/20001]  Time: 0.231  Ly: 0.148  Ld: 0.617  Lt: 0.569  sourceN: 0.00  Prec1: 95.97
-* Validation Prec1 71.716
-Iter: [5500/20001]  Time: 0.269  Ly: 0.145  Ld: 0.610  Lt: 0.563  sourceN: 0.00  Prec1: 95.95
-* Validation Prec1 71.716
-Iter: [5750/20001]  Time: 0.270  Ly: 0.146  Ld: 0.611  Lt: 0.558  sourceN: 0.00  Prec1: 96.17
-* Validation Prec1 72.182
-Iter: [6000/20001]  Time: 0.268  Ly: 0.144  Ld: 0.621  Lt: 0.555  sourceN: 0.00  Prec1: 96.11
-* Validation Prec1 71.716
-Iter: [6250/20001]  Time: 0.266  Ly: 0.141  Ld: 0.627  Lt: 0.559  sourceN: 0.00  Prec1: 96.22
-* Validation Prec1 72.362
+Iter: [0/20001]  Time: 0.820  Ly: 3.427  Ld: 0.690  Lt: 3.433  sourceN: 0.00  Prec1: 6.25
+Iter: [250/20001]  Time: 0.085  Ly: 1.411  Ld: 0.581  Lt: 2.235  sourceN: 0.00  Prec1: 67.03
+* Validation Prec1 45.800
+Iter: [500/20001]  Time: 0.101  Ly: 0.359  Ld: 0.364  Lt: 1.092  sourceN: 0.00  Prec1: 90.50
+* Validation Prec1 48.241
+Iter: [750/20001]  Time: 0.102  Ly: 0.250  Ld: 0.364  Lt: 0.882  sourceN: 0.00  Prec1: 93.44
+* Validation Prec1 49.210
+Iter: [1000/20001]  Time: 0.101  Ly: 0.206  Ld: 0.387  Lt: 0.768  sourceN: 0.00  Prec1: 94.33
+* Validation Prec1 50.144
+Iter: [1250/20001]  Time: 0.101  Ly: 0.191  Ld: 0.267  Lt: 0.691  sourceN: 0.00  Prec1: 94.75
+* Validation Prec1 50.826
+Iter: [1500/20001]  Time: 0.101  Ly: 0.176  Ld: 0.367  Lt: 0.649  sourceN: 0.00  Prec1: 95.17
+* Validation Prec1 48.672
+Iter: [1750/20001]  Time: 0.102  Ly: 0.160  Ld: 0.257  Lt: 0.617  sourceN: 0.00  Prec1: 95.30
+* Validation Prec1 50.467
+Iter: [2000/20001]  Time: 0.101  Ly: 0.160  Ld: 0.301  Lt: 0.603  sourceN: 0.00  Prec1: 95.26
+* Validation Prec1 50.251
+Iter: [2250/20001]  Time: 0.101  Ly: 0.160  Ld: 0.357  Lt: 0.572  sourceN: 0.00  Prec1: 95.55
+* Validation Prec1 50.503
+Iter: [2500/20001]  Time: 0.101  Ly: 0.151  Ld: 0.302  Lt: 0.560  sourceN: 0.00  Prec1: 95.74
+* Validation Prec1 50.503
+Iter: [2750/20001]  Time: 0.100  Ly: 0.140  Ld: 0.335  Lt: 0.562  sourceN: 0.00  Prec1: 95.72
+* Validation Prec1 51.256
+Iter: [3000/20001]  Time: 0.100  Ly: 0.142  Ld: 0.352  Lt: 0.535  sourceN: 0.00  Prec1: 96.12
+* Validation Prec1 50.897
+Iter: [3250/20001]  Time: 0.101  Ly: 0.128  Ld: 0.346  Lt: 0.539  sourceN: 0.00  Prec1: 96.31
+* Validation Prec1 50.251
